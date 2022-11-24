@@ -7,13 +7,18 @@
 
 		<link rel="stylesheet" type="text/css" href="view/style.css">
 
+<<<<<<< HEAD
 		<script src="controller/comands.js"></script>
+=======
+		<script src="controller/commands.js"></script>
+>>>>>>> 45af6071a8fbdef8280ecfc26321c0f37b09d722
 
     </head>
     <body>
         <div class="menu">
             <a href="home.php">Home</a>
         </div>
+<<<<<<< HEAD
         <div>
 			<div>
 				<h1>Create Product</h1>
@@ -71,4 +76,6 @@
 	</div>
 </form>
 
+=======
+>>>>>>> 45af6071a8fbdef8280ecfc26321c0f37b09d722
     </body>

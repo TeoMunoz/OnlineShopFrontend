@@ -14,6 +14,7 @@
         <div class="menu">
             <a href="home.php">Home</a>
         </div>
+<<<<<<< HEAD
         <div>
 			<div>
 				<h1>Products</h1>
@@ -33,4 +34,6 @@
 			</table>
 			<script src="controller/products.js"></script>
 		</div>
+=======
+>>>>>>> 45af6071a8fbdef8280ecfc26321c0f37b09d722
     </body>
