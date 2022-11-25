@@ -7,18 +7,14 @@
 
 		<link rel="stylesheet" type="text/css" href="view/style.css">
 
-<<<<<<< HEAD
 		<script src="controller/comands.js"></script>
-=======
 		<script src="controller/commands.js"></script>
->>>>>>> 45af6071a8fbdef8280ecfc26321c0f37b09d722
 
     </head>
     <body>
         <div class="menu">
             <a href="home.php">Home</a>
         </div>
-<<<<<<< HEAD
         <div>
 			<div>
 				<h1>Create Product</h1>
@@ -30,12 +26,12 @@
     
 	<div class="field">
 		<label for="price-field">Price</label>
-		<input type="number" id="price-field" min="0" required step=".01">
+		<input type="number" id="price-field" min="1" required step=".01">
 	</div>
     
 	<div class="field">
 		<label for="stock-field">Stock</label>
-		<input type="number" id="stock-field" min="0" required>
+		<input type="number" id="stock-field" min="1" required>
 	</div>
     
 	<div class="field">
@@ -67,15 +63,12 @@
 	</div>
 
 	<div class="field">
-		<label for="weight-field">Weight (g)</label>
+		<label for="weight-field">Weight</label>
 		<input type="number" id="weight-field" min="0" step=".01">
 	</div>
 
 	<div class="field">
-		<button type="submit">Save and Close</button>
+		<button type="submit">Close</button>
 	</div>
 </form>
-
-=======
->>>>>>> 45af6071a8fbdef8280ecfc26321c0f37b09d722
     </body>

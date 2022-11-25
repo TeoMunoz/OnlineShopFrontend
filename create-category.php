@@ -27,10 +27,10 @@
 					<label for="active-checkbox">Active</label>
 				</div>
 				<div class="field">
-					<button class="button" type="submit">Save and Close</button>
+					<button class="button" type="submit">Close</button>
 				</div>
 			</form>
-			<script src="controller/category.js"></script>
+			<script src="controller/create-category.js"></script>
 			</div>
 		</div>
     </body>

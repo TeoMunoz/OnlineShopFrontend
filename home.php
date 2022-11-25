@@ -12,18 +12,14 @@
     </head>
     <body>
         <div class="menu">
-            <a href="products.php">Products</a>
-<<<<<<< HEAD
-            <a href="category.php">Category</a>
-            <a href="create-products.php">Create Products</a>
-            <a href="create-category.php">Create Category</a>
-            <a href="index.php">Logout</a>
+            <a id="products" href="products.php">Products</a>
+            <a id="category" href="category.php">Category</a>
+            <a id="create-products" href="create-products.php">Create Products</a>
+            <a id="create-category" href="create-category.php">Create Category</a>
+            <a id="index" href="index.php">Logout</a>
         </div>
     </body>
-    
-=======
             <a href="create-products.php">Create Products</a>
             <a href="index.php">Logaut</a>
         </div>
     </body>
->>>>>>> 45af6071a8fbdef8280ecfc26321c0f37b09d722
